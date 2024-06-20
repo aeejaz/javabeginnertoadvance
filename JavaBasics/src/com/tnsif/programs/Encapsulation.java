@@ -1,4 +1,4 @@
-// Program to demonstrate encapsulation
+// Demonstration of encapsulation
 package com.tnsif.programs;
 
 public class Encapsulation {

@@ -9,7 +9,7 @@ public class EncapsulationDemo {
         // classname obj_name = new ClassName();
         obj.serialnum = 16; // Calling data member by using obj
         obj.name = "aejaz";
-        obj.age = 21;
+        obj.age = 19;
         obj.show();
     }
 }
